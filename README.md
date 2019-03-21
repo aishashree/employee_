@@ -17,7 +17,7 @@ The front end used in this project is HTML, CSS and PHP. A Hypertext Markup Lang
 
 The main aim of this project is to provide the essential information about the employee. The employee can view their information by giving the valid username and password which is been issued by the organization. The employee can apply leave from their portal itself. The manager will get updated in their portal when any updates is made. The manager can view the details of all employees and sends notification.
 
-# Future Enhancements 
+# FUTURE ENHANCEMENTS
 
 This project can be further enhanced by giving email notification. The system can work flexibly in any environment and it can be extended up to a maximum level to satisfy the user needs, hence we can improve the service to employees.
 
