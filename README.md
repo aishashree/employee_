@@ -1,4 +1,5 @@
 # employee_
+# EMPLOYEE MANAGEMENT SYSTEM
 # PROBLEM DEFINITION
 
 The existing system faces few problems for maintaining the records manually. So it aims to automate its existing manual system by the help of computerized system, so that their valuable information can be stored for long time in the database for easy access. The admin will register all the details of the employee. The manager can view all the information of the employee. It also sends the notification to every employee working in the organization, regarding any events that is been taking place in the organization.
