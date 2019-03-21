@@ -14,3 +14,8 @@ The main aim of this project is to provide the essential information about the e
 Future Enhancements 
 This project can be further enhanced by giving email notification. The system can work flexibly in any environment and it can be extended up to a maximum level to satisfy the user needs, hence we can improve the service to employees.
 
+MODULE SPLITUP
+Vinitha-User interface
+Aishwarya-Database Connectiviy
+Monisha-Notification
+
