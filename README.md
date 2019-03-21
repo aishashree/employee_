@@ -34,4 +34,20 @@ Monisha-Notification
 
 The notification will be sent from manager to all the employee working in the organization.The notification will be regarding any event taking place in the organization.
 
+# TASK SPLITUP
+
+User Interface
+
+The user interface module consist of different form designs. The register for has different fields like username,email,password,confirm password,role.The admin will register the details and give the username to the employees.The login page has username and password.The personal details,educational details,certification and leave form consist of different fields which all are the details of employees.
+
+Database Connectivity
+
+The database for different forms are created and it is stored.The username and password present in the database will be fetched and used in the login page to login with the employee.The personal details and educational details will be fetched and displayed in the employee login.The certification and the leave form will also be stored.
+
+Notification
+
+The notification from the manager to the employee working in organization will be sent,regarding any events.The send notification tab will be in manager login and it will be posted using it.
+
+
+
 
