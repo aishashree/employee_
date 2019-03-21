@@ -23,8 +23,10 @@ This project can be further enhanced by giving email notification. The system ca
 # MODULE SPLITUP
 Vinitha-User interface
 The form designs for personal details,educational details,certifications,leave form are done.The forms have multiple fields and every field is designed with the languages like html,css,javascript,php.
+
 Aishwarya-Database Connectiviy
 The database connectivity for every form is been done.xampp server is used and mysql is used as backend.The joining employee of the organisation will be registered with username and password.The database for personal details,educational details,certification and leave form is done.Then the details are fetched from database and displayed in the employee login.
+
 Monisha-Notification
 The notification will be sent from manager to all the employee working in the organization.The notification will be regarding any event taking place in the organization.
 
