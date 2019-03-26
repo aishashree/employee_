@@ -46,10 +46,12 @@ The database for different forms are created and it is stored.The username and p
 
 Notification
 
-The notification from the manager to the employee working in organization will be sent,regarding any events.The send notification tab will be in manager login and it will be posted using it.
+The notification from the manager to the employee working in organization will be sent,regarding any events.The send notification tab will be in manager login and it will be posted using it.The manager can send mail to particular employee regarding any work.
 
-#Demo video
+# Demo video
 https://www.youtube.com/watch?v=LPUvl87rJNM&feature=youtu.be
+
+
 
 
 
